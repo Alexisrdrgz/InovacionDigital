@@ -27,6 +27,16 @@ body, html {
   color: white;
 }
 
+
+.imagen{
+
+  margin-left: 20%;
+}
+
+.video{
+  
+  margin-left: 30%;
+}
 .texto{
     margin: 120px;
     text-justify: auto;
